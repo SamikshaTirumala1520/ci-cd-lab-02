@@ -1,0 +1,4 @@
+apiVersion: v2
+name: event-management
+description: A Helm chart for Event Management System
+version: 1.0.0

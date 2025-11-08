@@ -1,0 +1,7 @@
+frontend:
+  image: your-dockerhub-username/frontend:latest
+  servicePort: 3000
+
+backend:
+  image: your-dockerhub-username/backend:latest
+  servicePort: 8081
